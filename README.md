@@ -21,7 +21,7 @@ To train the model run _train.py_.
 The model is already trained (8,000 steps to achieve perplexity of 17) and can be tested with the script _chat.py_.
 
 ### utils
-This folder contains functions that are used across all scripts (reading data, generate question lists, etc.).
+This folder contains functions that are used across all scripts (reading data, generate question lists, etc.). Please edit the appropiate paths to the data files and the file names.
 
 ## Dataset
 All of our work was made with a private dataset of questions and answers for several MOOC courses from edX. This data is not included and in order to run these scripts there should be added in a folder named _data_ on the root of the project.
