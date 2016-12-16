@@ -1,0 +1,6 @@
+model_checkpoint_path: "/research/edubot/seq2seq_edubot/var/lib/tf_seq2seq_chatbot/nn_models/model.ckpt-6000"
+all_model_checkpoint_paths: "/research/edubot/seq2seq_edubot/var/lib/tf_seq2seq_chatbot/nn_models/model.ckpt-5600"
+all_model_checkpoint_paths: "/research/edubot/seq2seq_edubot/var/lib/tf_seq2seq_chatbot/nn_models/model.ckpt-5700"
+all_model_checkpoint_paths: "/research/edubot/seq2seq_edubot/var/lib/tf_seq2seq_chatbot/nn_models/model.ckpt-5800"
+all_model_checkpoint_paths: "/research/edubot/seq2seq_edubot/var/lib/tf_seq2seq_chatbot/nn_models/model.ckpt-5900"
+all_model_checkpoint_paths: "/research/edubot/seq2seq_edubot/var/lib/tf_seq2seq_chatbot/nn_models/model.ckpt-6000"
